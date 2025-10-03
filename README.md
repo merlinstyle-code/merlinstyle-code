@@ -1,16 +1,18 @@
-## Hi there 👋
+# 🚨 Incident Response Hub
 
-<!--
-**merlinstyle-code/merlinstyle-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Digital Forensics & Incident Response Research
 
-Here are some ideas to get you started:
+![IR](https://img.shields.io/badge/Focus-Incident_Response-red)
+![Forensics](https://img.shields.io/badge/Area-Digital_Forensics-blue)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+Incident response specialist focused on digital forensics, security operations, and incident handling methodologies. Expertise in DFIR frameworks and security incident management.
+
+## Specialization Areas
+- Digital forensics techniques
+- Incident response procedures
+- Security operations frameworks
+- Forensic analysis tools
+
+## Current Focus
+Developing incident response tools and forensic analysis frameworks for security research.
